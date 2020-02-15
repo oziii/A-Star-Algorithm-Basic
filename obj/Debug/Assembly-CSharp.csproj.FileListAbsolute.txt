@@ -1,0 +1,2 @@
+E:\unity\A-Star Algorithm Test\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\unity\A-Star Algorithm Test\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
